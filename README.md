@@ -32,7 +32,9 @@ For more in-depth treatment of Pneumatic's features consult the support center: 
 ## Getting Started
 
 You can grab your own copy of Pneumatic by cloning this repository.
+
 Our team will shortly be releasing a full containerized solution that will be available from here.
+
 All you'll need to do will be get this repo, go into the home folder and run docker compose up -d.
 
 ### Prerequisites
