@@ -30,13 +30,13 @@ As a cloud native solution Pneumatic easily integrates with other SaaS systems, 
 For more in-depth treatment of Pneumatic's features consult the support center: [https://support.pneumatic.app/en/]
 
 ## Getting Started
+
+You can grab your own copy of Pneumatic by cloning this repository.
+Our team will shortly be releasing a full containerized solution that will be available from here.
+All you'll need to do will be get this repo, go into the home folder and run docker compose up -d.
+
 ### Prerequisites
 * Operating System: Linux, macOS, or Windows
-* Database: PostgreSQL
+* Docker Engine
 * Git: For cloning the repository
-# Installation
-Clone the Repository
 
-git clone https://github.com/pneumatic/pneumaticworkflow.git
-
-cd pneumatic-workflow
