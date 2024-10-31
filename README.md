@@ -3,6 +3,16 @@
 Pneumatic is an open-source, cloud-native workflow management system that empowers businesses to automate and streamline their processes with ease.
 Access to the source code under the Apache 2.0 License ensures companies can customize Pneumatic anyway they see fit to ensure it meets their unique needs and requirements.
 ![Pneumatic Dashboard](https://downloads.intercomcdn.com/i/o/409119207/c0482f118210603738f5c5dd/IMG_1.png)
+
+## Features
+* Visual Workflow Designer: Create and modify workflows using an intuitive drag-and-drop interface.
+* Automated Task Management: Automate routine tasks and approvals to increase efficiency.
+* Scalable Architecture: Built to handle enterprise-level workloads with ease.
+* Integration-Friendly: Connect with third-party applications and services through APIs.
+* Real-Time Monitoring: Track workflow progress and performance with dashboards and analytics.
+* Role-Based Access Control: Secure your workflows with customizable user permissions.
+  
+
 ## Find out more about how Pneumatic works by watching our video presentations:
 [:tv: Product Overview (< 5 min)](https://www.youtube.com/watch?v=GC67ocuOFfE)
 
@@ -16,13 +26,9 @@ As a cloud native solution Pneumatic easily integrates with other SaaS systems, 
 
 ![Zapier Integrations](https://downloads.intercomcdn.com/i/o/352871191/a5bf5daf795b2263755869b6/IMG_2.png)
 
-# Features
-* Visual Workflow Designer: Create and modify workflows using an intuitive drag-and-drop interface.
-* Automated Task Management: Automate routine tasks and approvals to increase efficiency.
-* Scalable Architecture: Built to handle enterprise-level workloads with ease.
-* Integration-Friendly: Connect with third-party applications and services through APIs.
-* Real-Time Monitoring: Track workflow progress and performance with dashboards and analytics.
-* Role-Based Access Control: Secure your workflows with customizable user permissions.
+## Documtation
+For more in-depth treatment of Pneumatic's features consult the support center: [https://support.pneumatic.app/en/]
+
 ## Getting Started
 ### Prerequisites
 * Operating System: Linux, macOS, or Windows
