@@ -27,7 +27,7 @@ As a cloud native solution Pneumatic easily integrates with other SaaS systems, 
 ![Zapier Integrations](https://downloads.intercomcdn.com/i/o/352871191/a5bf5daf795b2263755869b6/IMG_2.png)
 
 ## Documtation
-For more in-depth treatment of Pneumatic's features consult the support center: [https://support.pneumatic.app/en/]
+For more in-depth treatment of Pneumatic's features consult the support center: [Pneumatic Support Center](https://support.pneumatic.app/en/)
 
 ## Getting Started
 
