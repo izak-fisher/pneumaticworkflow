@@ -10,6 +10,12 @@ Access to the source code under the Apache 2.0 License ensures companies can cus
 
 [:tv: Intro to Workflow Templates (< 5 min)](https://www.youtube.com/watch?v=sgDbMDyxWoY&t=10s)
 
+## Integrations
+
+As a cloud native solution Pneumatic easily integrates with other SaaS systems, either directly through its public API or via third party integration solutions like Zapier
+
+![Zapier Integrations](https://downloads.intercomcdn.com/i/o/352871191/a5bf5daf795b2263755869b6/IMG_2.png)
+
 # Features
 * Visual Workflow Designer: Create and modify workflows using an intuitive drag-and-drop interface.
 * Automated Task Management: Automate routine tasks and approvals to increase efficiency.
