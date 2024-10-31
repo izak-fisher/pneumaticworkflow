@@ -39,6 +39,6 @@ All you'll need to do will be get this repo, go into the home folder and run doc
 
 ### Prerequisites
 * Operating System: Linux, macOS, or Windows
-* Docker Engine
+* Docker Engine to run your locally hosted version of Pneumatic
 * Git: For cloning the repository
 
