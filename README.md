@@ -1,4 +1,5 @@
 ![Pneumatic](https://downloads.intercomcdn.com/i/o/348923885/eead981291a58644d8e60f87/IMG_4.png)
+
 # Pneumatic: All Workflows all the Time
 Pneumatic is an open-source, cloud-native workflow management system that empowers businesses to automate and streamline their processes with ease.
 Access to the source code under the Apache 2.0 License ensures companies can customize Pneumatic anyway they see fit to ensure it meets their unique needs and requirements.
